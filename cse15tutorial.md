@@ -12,7 +12,7 @@ There you will find under your additional accounts, your CSE15L username like th
 
 
 From there, use the **Global Password Change Tool** to then reset your password.
-Here is an additional tutorial if yo uare still having trouble 
+Here is an additional tutorial if you are still having trouble 
 
 [Password Reset Tutorial](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
 
@@ -69,6 +69,9 @@ Now hopefully your terminal will look a little like this
 
 # Part 5) Entering Commands
 
+Now you can finally play around and enter some commands. Here are some to start off with:
+
+```
 cd ~
 cd
 ls -lat
@@ -76,7 +79,6 @@ ls -a
 ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
 cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 cat /home/linux/ieng6/cs15lsp23/public/hello.txt
-  
-  Heres what it may look like after entering
-  
-  *command img*
+```
+
+Hopefully now your are all setup. `Woooo :D`
