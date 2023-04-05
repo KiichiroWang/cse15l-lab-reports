@@ -1,6 +1,7 @@
 # CSE15L LAB SETUP TUTORIAL
 By Kiichiro Wang
 
+
 ## Part 1) CSE15L Account Change
 
 Start by looking up your account at:
@@ -11,12 +12,14 @@ There you will find under your additional accounts, your CSE15L username like th
 ![Image](AccountLookup.PNG)
 
 
+
 From there, use the **Global Password Change Tool** to then reset your password.
 Here is an additional tutorial if you are still having trouble 
 
 [Password Reset Tutorial](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
 
 After resetting you may have to wait a couple minutes for it to actually change.
+
 
 # Part 2) Setting Up Visual Studio Code
 
@@ -26,10 +29,12 @@ To install Visual Studio Code, go to
 
 and follow the instructions respective to your computer (Mac, Windows, etc).
 
+
 Once installed open it to show a menu similar to this
 ![Image](VSCODE.PNG)
 
 From here we can move on to connecting to the ieng6 servers once we install Git.
+
 
 # Part 3) Installing and Settuing up Git Bash
 
@@ -43,6 +48,7 @@ Once installed to begin using Bash on VScode follow these instructions:
 [VSCode Git Setup](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994)
 
 Perfect, now we can remotely connect.
+
 
 # Part 4) Connecting Remotely
 
@@ -59,13 +65,14 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?`
 
 Say **yes** and then proceed to enter your password.
 
-**WARNING**
+**WARNING**:
 What you type will not show up as it will be hidden to protect your password. However,
 you are actually typing so still enter your password like normal and press enter.
 
 Now hopefully your terminal will look a little like this
 
 ![Image](RemoteConnect.PNG)
+
 
 # Part 5) Entering Commands
 
