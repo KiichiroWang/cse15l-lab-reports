@@ -81,4 +81,5 @@ cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 ```
 
+
 Hopefully now your are all setup. `Woooo :D`
