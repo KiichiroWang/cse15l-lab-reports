@@ -86,6 +86,12 @@ Now you can finally play around and enter some commands. Here are some to start 
 * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 * cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 
- To use these commands go down to your terminal and enter them in.
+ To use these commands go down to your terminal and enter them in. For a general explanation
+ of what these commands do:
+ 
+ 1. cd = change directory, changes the directory you are currently in
+ 2. ls = lists all the files in the directory you are in
+ 3. cp = copies a file 
+ 4. cat = concatenates files together and prints them out
   
-Hopefully now your are all setup. `Woooo :D`
+Hopefully now your are all setup and ready to go! `Woooo :D`
