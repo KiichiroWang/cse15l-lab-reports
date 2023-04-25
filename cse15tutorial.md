@@ -78,15 +78,14 @@ Now hopefully your terminal will look a little like this
 
 Now you can finally play around and enter some commands. Here are some to start off with:
 
-```
-cd ~
-cd
-ls -lat
-ls -a
-ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
-cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-cat /home/linux/ieng6/cs15lsp23/public/hello.txt
-```
+* cd ~
+* cd
+* ls -lat
+* ls -a
+* ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
+* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+* cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 
-
+ To use these commands go down to your terminal and enter them in.
+  
 Hopefully now your are all setup. `Woooo :D`
